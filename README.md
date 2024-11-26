@@ -1,2 +1,2 @@
 # Sample_Project
-Changes by developer1
+Changes by Developer
